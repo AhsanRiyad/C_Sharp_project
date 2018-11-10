@@ -1,0 +1,8 @@
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\bin\Debug\BusTicketManager.exe.config
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\bin\Debug\BusTicketManager.exe
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\bin\Debug\BusTicketManager.pdb
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\obj\Debug\BusTicketManager.csprojResolveAssemblyReference.cache
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\obj\Debug\BusTicketManager.Properties.Resources.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\obj\Debug\BusTicketManager.csproj.GenerateResource.Cache
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\obj\Debug\BusTicketManager.exe
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketManager\obj\Debug\BusTicketManager.pdb

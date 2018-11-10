@@ -1,0 +1,173 @@
+string connectionString;
+            SqlConnection cnn;
+            connectionString = @"Data Source=DESKTOP-SAVEBCL;Initial Catalog=sampleDB;Integrated Security=True";
+            cnn = new SqlConnection(connectionString);
+            cnn.Open();
+            MessageBox.Show("Connection Open  !");
+            string query = "Select Password from Credentials where ID = " + textBoxID.Text.ToString() + "AND Password = " + textBoxPass.Text.ToString() ;
+            SqlCommand command = new SqlCommand(query,cnn);
+            SqlDataAdapter da = new SqlDataAdapter(command);
+            string output="" ;
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            int i = command.ExecuteNonQuery();
+            if(dt.Rows.Count > 0)
+            {
+                
+                
+                    MessageBox.Show("OK");
+                    ManagerForm ob = new ManagerForm();
+                    ob.Show();
+                
+               // MessageBox.Show(output);
+            }
+            
+            dt.Dispose();
+            da.Dispose();
+            command.Dispose();
+            cnn.Close();
+
+
+            cnn.Close();
+
+
+
+
+
+
+
+string query = @"INSERT INTO Info(ID,NAME,CGPA) VALUES(@id,@name,@cgpa)";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@id", textBoxID.Text);
+                cmd.Parameters.AddWithValue("@name", textBoxName.Text);
+                cmd.Parameters.AddWithValue("@cgpa", textBoxCGPA.Text);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                showDatagrid();
+                ClearField();
+
+
+
+
+
+
+
+string query = @"UPDATE Info SET NAME = @name, CGPA = @cgpa WHERE ID = @id";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@id", id);
+                cmd.Parameters.AddWithValue("@name", textBoxName.Text);
+                cmd.Parameters.AddWithValue("@cgpa", textBoxCGPA.Text);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                showDatagrid();
+                ClearField();
+
+
+
+
+
+
+
+con.Open();
+                string query = @"DELETE Info WHERE ID = @id";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@id", textBoxID.Text);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                showDatagrid();
+                ClearField();
+
+
+
+
+
+
+
+
+
+
+
+
+
+ string userName = TextBoxUserName.Text;
+            string password = TextBoxPassword.Text;
+
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-IBAJJID;Initial Catalog=BusTicket;Integrated Security=True");
+            con.Open();
+
+            //string query = @"INSERT INTO user_info(full_name, email, user_name , password) VALUES('riyad' , 'rjaor' ,'riyad' , 'rjaor' )";
+
+            string query = @"select password from user_info where user_name=@un";
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            cmd.Parameters.AddWithValue("@id", userName);
+            int i = cmd.ExecuteNonQuery();
+            MessageBox.Show(Convert.ToString(i));
+
+
+
+            //SqlDataReader reader = cmd.ExecuteReader();
+            //Console.WriteLine("hello");
+            //while (reader.Read())
+            /// {
+            // write the data on to the screen
+            //    Console.WriteLine(String.Format("{0} ",
+            // call the objects from their index
+            //    reader[0]));
+
+            //   string a = Convert.ToString(reader[0]);
+            //TextBoxUserName.Text = a;
+
+
+
+
+
+
+
+
+insert into seat_status (seat_no , status, trip_id) values ('a1' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('a2' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('a3' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('a4' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('b1' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('b2' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('b3' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('b4' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('c1' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('c2' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('c3' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('c4' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('d1' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('d2' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('d3' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('d4' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('e1' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('e2' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('e3' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('e4' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('f1' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('f2' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('f3' , 0 , 2201 );
+insert into seat_status (seat_no , status, trip_id) values ('f4' , 0 , 2201 );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
