@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketManagement", "BusTicketManagement\BusTicketManagement.csproj", "{0E2C16C5-5E09-4EB1-A988-032CE321DBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketAdmin", "BusTicketAdmin\BusTicketAdmin.csproj", "{89EB8F51-527D-422D-8CDA-0729993DCDB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketManager", "BusTicketManager\BusTicketManager.csproj", "{547C8C5B-5173-4737-A948-28B57A78D610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2C16C5-5E09-4EB1-A988-032CE321DBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2C16C5-5E09-4EB1-A988-032CE321DBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2C16C5-5E09-4EB1-A988-032CE321DBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2C16C5-5E09-4EB1-A988-032CE321DBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EB8F51-527D-422D-8CDA-0729993DCDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB8F51-527D-422D-8CDA-0729993DCDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB8F51-527D-422D-8CDA-0729993DCDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB8F51-527D-422D-8CDA-0729993DCDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547C8C5B-5173-4737-A948-28B57A78D610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547C8C5B-5173-4737-A948-28B57A78D610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547C8C5B-5173-4737-A948-28B57A78D610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547C8C5B-5173-4737-A948-28B57A78D610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

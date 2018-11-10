@@ -1,0 +1,80 @@
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe.config
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.pdb
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManagement.exe
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManager.exe
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\mscorlib.dll
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\System.Net.Http.dll
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManagement.pdb
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManager.pdb
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\System.Net.Http.xml
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\normidna.nlp
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfc.nlp
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfd.nlp
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfkc.nlp
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfkd.nlp
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Form1.resources
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Properties.Resources.resources
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControlAdminFront.resources
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControloperator.resources
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csproj.GenerateResource.Cache
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.exe
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.pdb
+C:\Users\Asua\Desktop\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlManageTrip.resources
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe.config
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.exe
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.pdb
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.pdb
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManagement.exe
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManager.exe
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManagement.pdb
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketManager.pdb
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Form1.resources
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlManageTrip.resources
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Properties.Resources.resources
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControlAdminFront.resources
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControloperator.resources
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csproj.GenerateResource.Cache
+C:\Users\Prity\Desktop\Final\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlCreate.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe.config
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.exe
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.pdb
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.pdb
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Form1.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlCreate.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlManageTrip.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Properties.Resources.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControlAdminFront.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControloperator.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csproj.GenerateResource.Cache
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.FormManageTrip.resources
+C:\Users\Riyad\Desktop\Varsity Project\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.FormCreateInfo.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe.config
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.exe
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\BusTicketAdmin.pdb
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\mscorlib.dll
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\System.Net.Http.dll
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\System.Net.Http.xml
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\normidna.nlp
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfc.nlp
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfd.nlp
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfkc.nlp
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\bin\Debug\normnfkd.nlp
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Form1.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.FormCreateInfo.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.FormManageTrip.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlCreate.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.NewFolder1.UserControlManageTrip.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.Properties.Resources.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControlAdminFront.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.UserControloperator.resources
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.csproj.GenerateResource.Cache
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.exe
+C:\Users\Asua\Desktop\C# Project Latest\BusTicketManagement\BusTicketAdmin\obj\Debug\BusTicketAdmin.pdb
